@@ -47,7 +47,7 @@ Desenvolvimento do Front End da aplicação de finanças do desafio 6.
 ## 🚀 Instalar e usar
 
 ###### Clone o respostiorio.
-``git clone git@github.com:nelsonplinio/finance-app-front-end.git`
+``git clone git@github.com:nelsonplinio/finance-app-front-end.git``
 
 ###### Instalar as dependencias.
 ``cd finance-app-front-end ``
